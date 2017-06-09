@@ -34,7 +34,7 @@ class Walker{
    stroke(random(100,255),random(100,255),random(100,255));
    //stroke(#D93240);
    fill(#262831);
-   ellipse(x,y,10,10);
+   ellipse(x,y,5,5);
  }
  
 
